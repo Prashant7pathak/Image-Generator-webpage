@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: beige;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: greenyellow;
+    color: brown;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+}
+
+img{
+    margin-top: 10px;
+    height: 390px;
+    width: 400px;
+    border-radius: 20px;
+}
